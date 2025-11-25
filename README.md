@@ -1,11 +1,9 @@
-My Currency Converter App
+My Scientific Calculator App
 
-This is my Currency Converter project.
+This is my Scientific Calculator project.
 
 🔗 Live Demo:
-
-https://luckme12.github.io/currency-converter/
+https://luckme12.github.io/Scientific-Calculator/
 
 🔗 Repository Link:
-
-https://github.com/Luckme12/currency-converter
+https://github.com/Luckme12/Scientific-Calculator
